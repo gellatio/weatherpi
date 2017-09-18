@@ -8,11 +8,11 @@
 
 ## How to get your API key
 * Go to [initialstate.com](https://www.initialstate.com/) and click **Sign In** 
-![Sign In](https://i.liam.host/196.png)
+* ![Sign In](https://i.liam.host/196.png)
 * Click **Register A New Account** 
 ![Register](https://i.liam.host/g48.png)
 * Click on your email address in the top right corner & hit **my account**
-![My Account](https://i.liam.host/ttu.png)
+* ![My Account](https://i.liam.host/ttu.png)
 * Scroll all the way down & click **Create A New Key**
-![Key](https://i.liam.host/9zb.png)
+* ![Key](https://i.liam.host/9zb.png)
 * Then you're done!
