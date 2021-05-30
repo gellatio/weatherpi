@@ -6,8 +6,9 @@
 * Run the command **sudo python weather.py**
 * All done!
 
-**INITIAL STATE HAS RECENTLY BEEN CHANGED TO A PAID SERVICE! I'M LOOKING FOR AN ALTERNATIVE AT THE MOMENT, BUT THIS PART WILL BE KEPT UNTIL I FIND FREE ALTERNATIVE!**
+
 ## How to get your API key
+**INITIAL STATE HAS RECENTLY BEEN CHANGED TO A PAID SERVICE! I'M LOOKING FOR AN ALTERNATIVE AT THE MOMENT, BUT THIS PART WILL BE KEPT UNTIL I FIND FREE ALTERNATIVE!**
 * Go to [initialstate.com](https://www.initialstate.com/) and click **Sign In** 
 * Click **Register A New Account** and follow the instructions on the screen
 * Click on your email address in the top right corner & hit **my account**
