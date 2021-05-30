@@ -1,10 +1,15 @@
 # WeatherPi
+## Requirements
+* Raspberry Pi
+* SenseHat
+* Python
+* ``sense-hat`` module installed (``sudo apt install sense-hat``)
+
 ## How to use
-* Run start.sh and answer yes to all prompts **except the last prompt**
-* Open weather.py with your favorite text editor.
-* On Line 8, change the **INSERT API KEY HERE** to your API key, which you can find out how to get below.
-* Run the command **sudo python weather.py**
-* All done!
+* Run ``sudo apt-get update && sudo apt-get upgrade``
+* Run ``sudo apt-get install sense-hat``
+* Run the command ``sudo python weather.py``
+* The SenseHat will display all weather info!
 
 
 ## How to get your API key
