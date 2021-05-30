@@ -27,7 +27,7 @@ try:
 		sense.show_message("Pressure : " + str(pressure))
                 # logger.log("Pressure :",pressure)
 		
-		print("*** "datetime.now() + " ***")
+		print("*** " + datetime.now() + " ***")
 		print("Temperature: " + str(temp) + "F")
 		print("Humidity: " + str(humidity))
 		print("Pressure : " + str(pressure))
