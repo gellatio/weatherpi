@@ -6,8 +6,10 @@
 * sense-hat module installed (``sudo apt install sense-hat``)
 
 ## How to use
-* Run ``sudo apt-get update && sudo apt-get upgrade``
-* Run ``sudo apt-get install sense-hat``
+* Run the command ``sudo apt-get update && sudo apt-get upgrade``
+* Run the command ``sudo apt-get install sense-hat``
+* Run the command ``git clone https://github.com/softgrass/weatherpi`` or download the source code any other way
+* Enter the ``weatherpi`` directory by using ``cd weatherpi``
 * Run the command ``python3 weather.py``
 * The SenseHat will display all weather info!
 
