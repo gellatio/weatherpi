@@ -12,7 +12,7 @@ sense.clear()
 try:
 	while True:
 		now = datetime.now()
-		dt = now.strftime("%d/%m/%Y %H:%M:%S")
+		dt = now.strftime("%m/%d/%Y %H:%M:%S")
 		temp = sense.get_temperature()
 		humidity = sense.get_humidity()
 		pressure = sense.get_pressure()
