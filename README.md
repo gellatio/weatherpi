@@ -3,7 +3,7 @@
 * Raspberry Pi
 * SenseHat
 * Python
-* ``sense-hat`` module installed (``sudo apt install sense-hat``)
+* sense-hat module installed (``sudo apt install sense-hat``)
 
 ## How to use
 * Run ``sudo apt-get update && sudo apt-get upgrade``
