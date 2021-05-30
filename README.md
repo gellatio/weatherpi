@@ -8,7 +8,7 @@
 ## How to use
 * Run ``sudo apt-get update && sudo apt-get upgrade``
 * Run ``sudo apt-get install sense-hat``
-* Run the command ``sudo python weather.py``
+* Run the command ``python3 weather.py``
 * The SenseHat will display all weather info!
 
 
