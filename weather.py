@@ -2,6 +2,7 @@
 from sense_hat import SenseHat
 import time
 import sys
+from datetime import datetime
 # from ISStreamer.Streamer import Streamer
 
 sense = SenseHat()
@@ -26,6 +27,10 @@ try:
 		sense.show_message("Pressure : " + str(pressure))
                 # logger.log("Pressure :",pressure)
 		
+		print("*** "datetime.now() + " ***")
+		print("Temperature: " + str(temp) + "F")
+		print("Humidity: " + str(humidity))
+		print("Pressure : " + str(pressure))
 		time.sleep(1)
 
 except KeyboardInterrupt:
